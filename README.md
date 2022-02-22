@@ -14,7 +14,7 @@
   <a href="https://linkedin.com/in/lkotlarenko" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/linked-in-alt.svg" alt="lkotlarenko" height="30" width="40" />
   </a>
-  <a href="https://dev.to/https://dev.to/lkotlarenko" target="blank">
+  <a href="https://dev.to/lkotlarenko" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/lkotlarenko" height="30" width="40" />
   </a>
   <a href="https://codepen.io/lkotlarenko" target="blank">
