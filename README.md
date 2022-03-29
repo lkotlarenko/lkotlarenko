@@ -1,12 +1,12 @@
 <!-- Thanks to https://github.com/rahuldkjain/github-profile-readme-generator -->
 
-<header align="center">
-  <h1>Hi, I'm Léo!</h1>
-  <h3>A passionate student from Brazil :D</h3>
-  <br>
+<header>
+  <h1 align="center">Hi, I'm Léo!</h1>
+  <h3 align="center">A passionate student from Brazil :D</h3>
 </header>
 
 <section align="left">
+  <img src="https://komarev.com/ghpvc/?username=lkotlarenko&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" />
 
   - 🌱 I’m currently learning **~React, Redux, HTML, CSS, JavaScript...~** to **learn** at <a href="https://www.betrybe.com">Trybe</a>
 
@@ -15,16 +15,16 @@
   <h3>Connect with me:</h3>
   <div>
     <a href="https://linkedin.com/in/lkotlarenko">
-      <img src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/linked-in-alt.svg" alt="lkotlarenko" height="30" width="40" />
+      <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/linked-in-alt.svg" alt="lkotlarenko" height="30" width="40" />
     </a>
     <a href="https://dev.to/lkotlarenko">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/lkotlarenko" height="30" width="40" />
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/lkotlarenko" height="30" width="40" />
     </a>
     <a href="https://codepen.io/lkotlarenko">
-      <img src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/codepen.svg" alt="lkotlarenko" height="30" width="40" />
+      <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/codepen.svg" alt="lkotlarenko" height="30" width="40" />
     </a>
     <a href="https://www.last.fm/user/lkotlarenko">
-      <img src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/last-fm.svg" alt="last.fm" height="30" width="40" />
+      <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/last-fm.svg" alt="last.fm" height="30" width="40" />
     </a>
   </div>
 
@@ -77,6 +77,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lkotlarenko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=22272d&locale=en" alt="lkotlarenko" height="220" />
   </a>
 </div>
+<br>
 
 <!-- Spotify Now Playing Card https://github.com/novatorem/novatorem -->
 <div align="center">
@@ -92,5 +93,3 @@
   </a>
   <br>
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=lkotlarenko&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
