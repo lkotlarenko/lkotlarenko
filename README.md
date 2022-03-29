@@ -97,6 +97,6 @@
 <!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lkotlarenko&theme=onestar&no-frame=true&no-bg=true" alt="lkotlarenko Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=lkotlarenko&theme=onestar&no-frame=true" alt="lkotlarenko Profile Trophies" />
   </a>
 </div>
