@@ -10,7 +10,7 @@
 
   - 🌱 I’m currently learning **~React, Redux, HTML, CSS, JavaScript...~** to **learn** at <a href="https://www.betrybe.com">Trybe</a>
 
-  - 📫 How to reach me **lkotlarenko@protonmail.com**
+  - 📫 How to reach me **lkotlarenko@proton.me**
   
   <h3>Connect with me:</h3>
   <div>
