@@ -87,12 +87,9 @@
 </div>
 
 <!-- Snake contributions graph https://github.com/Platane/snk -->
-<div align="center">
-  <a href="https://github.com/lkotlarenko#user-activity-overview">
-    <img src="https://github.com/lkotlarenko/lkotlarenko/blob/output/github-contribution-grid-snake.svg" alt="Snake contributions animation"/>
-  </a>
+  ![GitHub Snake Light](https://github.com/lkotlarenko/lkotlarenko/blob/output/github-snake.svg#gh-light-mode-only)
+  ![GitHub Snake dark](https://github.com/lkotlarenko/lkotlarenko/blob/output/github-snake-dark.svg#gh-dark-mode-only)
   <br>
-</div>
   
 <!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
 <div align="center">
