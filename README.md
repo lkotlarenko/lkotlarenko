@@ -1,18 +1,36 @@
 <!-- Thanks to https://github.com/rahuldkjain/github-profile-readme-generator -->
+<img src="https://komarev.com/ghpvc/?username=lkotlarenko&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" />
 
 <header>
-  <h1 align="center">Hi, I'm Léo!</h1>
-  <h3 align="center">A passionate student from Brazil :D</h3>
+  <h1 align="center">Hi there! 👋</h1>
 </header>
-
 <section align="left">
-  <img src="https://komarev.com/ghpvc/?username=lkotlarenko&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" />
-
-  - 🌱 I’m currently learning **~React, Redux, Context, Hooks, Node, SQL, Docker...~** to **learn** at <a href="https://www.betrybe.com">Trybe</a>
-
-  - 📫 How to reach me **lkotlarenko@proton.me**
   
-  <h3>Connect with me:</h3>
+### I'm Leo, a 21 years old Web Developer from Brazil who loves to code and learn new things. 🚀
+
+## About me
+
+- 🌱 I'm currently exploring new areas of technology and data, such as Machine Learning, Artificial Intelligence, and Business Intelligence.
+- 💻 I have experience in Node.js, React, Express.js, and a bit of Python (but always looking to learning more).
+- 📚 I enjoy reading books and manhwa, listening to music, playing video games, watching movies or anime, and traveling (when possible).
+- 💡 I strongly believe that coding has the power to solve problems and help people change the world for the better.
+
+## My work
+
+- 🔭 I'm working on various open-source projects that you can find on my [repositories](https://github.com/lkotlarenko?tab=repositories) page.
+<!-- - 🌟 Some of my favorite projects are:
+  - [Project A](https://github.com/lkotlarenko/project-a): A brief description of what this project does
+  - [Project B](https://github.com/lkotlarenko/project-b): A brief description of what this project does
+  - [Project C](https://github.com/lkotlarenko/project-c): A brief description of what this project does
+-->
+  
+*I’m looking for a job opportunity where I can contribute with my values. I’m passionate about learning new technologies and creating solutions that make a positive impact. I value collaboration, diversity, and continuous improvement. If you are looking for someone who shares these values and has the skills and experience that I have, please feel free to contact me. 😸*
+
+## Contact me
+  
+  - 📫 Contact me by my personal email: **lkotlarenko@proton.me**
+  
+  <h3>Platforms I'm on:</h3>
   <div>
     <a href="https://linkedin.com/in/lkotlarenko">
       <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
@@ -70,6 +88,8 @@
   </p>
 </section>
 
+  - 📊 Here are some stats about my GitHub profile:
+  
 <!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
   <a href="https://github.com/lkotlarenko#user-activity-overview">
@@ -97,3 +117,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=lkotlarenko&theme=onestar&no-frame=true" alt="lkotlarenko Profile Trophies" />
   </a>
 </div>
+  
+## Support me
+
+If you like my work and want to support me, you can sponsor me on GitHub. Your support will enable me to focus more on open-source projects. Those contributions will help me continue to learn, grow, and contribute to the open-source ecosystem.
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/lkotlarenko?style=social)](https://github.com/sponsors/lkotlarenko)
