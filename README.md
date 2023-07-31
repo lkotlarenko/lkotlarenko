@@ -1,4 +1,6 @@
 <!-- Thanks to https://github.com/rahuldkjain/github-profile-readme-generator -->
+_Este README está [disponível](https://github.com/lkotlarenko/lkotlarenko/blob/main/README_PT-BR.md) em português._
+
 <img src="https://komarev.com/ghpvc/?username=lkotlarenko&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" />
 
 <header>
@@ -78,9 +80,6 @@
     <a href="https://nodejs.org">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a>
-    <a href="https://heroku.com">
-      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-    </a>
     <a href="https://docker.com/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     </a>
@@ -90,13 +89,13 @@
 
   - 📊 Here are some stats about my GitHub profile:
   
-<!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
-<div align="center">
-  <a href="https://github.com/lkotlarenko#user-activity-overview">
-    <img align="center" src="https://github-readme-stats-lkotlarenko.vercel.app/api/top-langs?username=lkotlarenko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&layout=slim&hide_border=true&langs_count=4" height="220" alt="lkotlarenko top languages used" />
-    <img align="center" src="https://github-readme-stats-lkotlarenko.vercel.app/api?username=lkotlarenko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&hide_border=true&include_all_commits=true" alt="lkotlarenko contributions overview" height="220" />
-  </a>
-</div>
+<!-- GitHub readme stats https://github.com/jstrieb/github-stats -->
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/lkotlarenko/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Overview"/>
+     <img src="https://raw.githubusercontent.com/lkotlarenko/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Overview"/>
+    <img src="https://raw.githubusercontent.com/lkotlarenko/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub Lang Stats"/>
+     <img src="https://raw.githubusercontent.com/lkotlarenko/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="GitHub Lang Stats"/>
+  </div>
 <br>
 
 <!-- Spotify Now Playing Card https://github.com/novatorem/novatorem -->
@@ -109,7 +108,7 @@
 <!-- Snake contributions graph https://github.com/Platane/snk -->
   ![GitHub Snake Light](https://github.com/lkotlarenko/lkotlarenko/blob/output/github-snake.svg#gh-light-mode-only)
   ![GitHub Snake dark](https://github.com/lkotlarenko/lkotlarenko/blob/output/github-snake-dark.svg#gh-dark-mode-only)
-  <br>
+<br>
   
 <!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
 <div align="center">
@@ -120,6 +119,6 @@
   
 ## Support me
 
-If you like my work and want to support me, you can sponsor me on GitHub. Your support will enable me to focus more on open-source projects. Those contributions will help me continue to learn, grow, and contribute to the open-source ecosystem.
+If you liked my work and want to support me, you can sponsor me on GitHub. Your support will enable me to focus more on open-source projects. Those contributions will help me continue to learn, grow, and contribute to the open-source ecosystem 💚.
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/lkotlarenko?style=social)](https://github.com/sponsors/lkotlarenko)
