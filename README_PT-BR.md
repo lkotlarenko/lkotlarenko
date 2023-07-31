@@ -1,5 +1,5 @@
 <!-- Obrigado a https://github.com/rahuldkjain/github-profile-readme-generator -->
-_THis README is [available](https://github.com/lkotlarenko/lkotlarenko/blob/main/README.md) in english._
+_This README is [available](https://github.com/lkotlarenko/lkotlarenko/blob/main/README.md) in english._
 
 <img src="https://komarev.com/ghpvc/?username=lkotlarenko&label=Visualizações%20de%20perfil&color=218a45&style=flat" alt="Visualizações de perfil" />
 
@@ -9,6 +9,7 @@ _THis README is [available](https://github.com/lkotlarenko/lkotlarenko/blob/main
 <section align="left">
   
 ### Eu sou o Léo, um Desenvolvedor Web brasileiro de 21 anos que adora programar e aprender coisas novas. 🚀
+### No momento, estou totalmente disponível e em busca ativa de oportunidades empolgantes de emprego!
 
 ## Sobre mim
 
