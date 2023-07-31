@@ -9,6 +9,7 @@ _Este README está [disponível](https://github.com/lkotlarenko/lkotlarenko/blob
 <section align="left">
   
 ### I'm Leo, a 21 years old Web Developer from Brazil who loves to code and learn new things. 🚀
+### I am currently available and actively searching for job opportunities!
 
 ## About me
 
@@ -26,7 +27,7 @@ _Este README está [disponível](https://github.com/lkotlarenko/lkotlarenko/blob
   - [Project C](https://github.com/lkotlarenko/project-c): A brief description of what this project does
 -->
   
-*I’m looking for a job opportunity where I can contribute with my values. I’m passionate about learning new technologies and creating solutions that make a positive impact. I value collaboration, diversity, and continuous improvement. If you are looking for someone who shares these values and has the skills and experience that I have, please feel free to contact me. 😸*
+*I am searching for a job opportunity where I can contribute my values. My passion lies in learning new technologies and developing solutions that have a positive impact. Collaboration, diversity, and continuous improvement are values that I hold dear. If you are seeking an individual who shares these values and possesses the necessary skills and experience, please do not hesitate to contact me. 😸*
 
 ## Contact me
   
