@@ -36,13 +36,13 @@ _This README is [available](https://github.com/lkotlarenko/lkotlarenko/blob/main
   <h3>Plataformas em que estou:</h3>
   <div>
     <a href="https://linkedin.com/in/lkotlarenko">
-      <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+      <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" />
     </a>
     <a href="https://dev.to/lkotlarenko">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/lkotlarenko" height="30" width="40" />
+      <img align="center" src="https://skillicons.dev/icons?i=devto" alt="https://dev.to/lkotlarenko" height="30" width="40" />
     </a>
     <a href="https://codepen.io/lkotlarenko">
-      <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" />
+      <img align="center" src="https://skillicons.dev/icons?i=codepen" alt="codepen" height="30" width="40" />
     </a>
     <a href="https://www.last.fm/user/lkotlarenko">
       <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/last-fm.svg" alt="last.fm" height="30" width="40" />
@@ -50,42 +50,13 @@ _This README is [available](https://github.com/lkotlarenko/lkotlarenko/blob/main
   </div>
 
   <h3>Linguagens e Ferramentas que estou aprendendo / tenho interesse:</h3>
-  <div>
-    <a href="https://www.linux.org/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </br>
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,tailwind,react,vite,mysql,git,bash,linux,docker,jest,gcp" />
     </a>
-    <a href="https://git-scm.com/">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://tailwindcss.com/">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://redux.js.org">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://jestjs.io">
-      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://docker.com/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>
-    <a>
-  </p>
+  </div>
+  </br>
 </section>
 
   - 📊 Aqui estão algumas estatísticas do meu perfil do GitHub:
@@ -99,6 +70,14 @@ _This README is [available](https://github.com/lkotlarenko/lkotlarenko/blob/main
   </div>
 <br>
 
+<!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lkotlarenko&theme=onestar&no-frame=true&row=2&column=3" alt="lkotlarenko Profile Trophies" />
+  </a>
+</div>
+</br>
+
 <!-- Spotify Now Playing Card https://github.com/novatorem/novatorem -->
 <div align="center">
   <a href="https://open.spotify.com/user/lkotlarenko">
@@ -107,17 +86,12 @@ _This README is [available](https://github.com/lkotlarenko/lkotlarenko/blob/main
 </div>
 
 <!-- Snake contributions graph https://github.com/Platane/snk -->
-  ![GitHub Snake Light](https://github.com/lkotlarenko/lkotlarenko/blob/output/github-snake.svg#gh-light-mode-only)
-  ![GitHub Snake dark](https://github.com/lkotlarenko/lkotlarenko/blob/output/github-snake-dark.svg#gh-dark-mode-only)
-<br>
-  
-<!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lkotlarenko&theme=onestar&no-frame=true" alt="Troféus do perfil de lkotlarenko" />
-  </a>
+  <img src="https://github.com/lkotlarenko/lkotlarenko/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="GitHub Stats Overview"/>
+   <img src="https://github.com/lkotlarenko/lkotlarenko/blob/output/github-snake.svg#gh-light-mode-only" alt="GitHub Stats Overview"/>
 </div>
-  
+<br>
+
 ## Me apoie
 
 Se você gostar do meu trabalho e desejar me apoiar, você pode me patrocinar no GitHub. Seu apoio me permitirá focar mais em projetos de código aberto. Essas contribuições me ajudarão a continuar aprendendo, crescendo e contribuindo para o ecossistema de código aberto 💚.
