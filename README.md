@@ -8,7 +8,7 @@ _Este README está [disponível](https://github.com/lkotlarenko/lkotlarenko/blob
 </header>
 <section align="left">
   
-### I'm Leo, a 21 years old Web Developer from Brazil who loves to code and learn new things. 🚀
+### I'm a 22 years old Web Developer from Brazil who loves to code and learn new things. 🚀
 ### I am currently available and actively searching for job opportunities!
 
 ## About me
@@ -44,7 +44,7 @@ _Este README está [disponível](https://github.com/lkotlarenko/lkotlarenko/blob
     <a href="https://codepen.io/lkotlarenko">
       <img align="center" src="https://skillicons.dev/icons?i=codepen" alt="codepen" height="30" width="40" />
     </a>
-    <a href="https://www.last.fm/user/lkotlarenko">
+    <a href="[https://www.last.fm/user/lkotlarenko](https://www.last.fm/user/elllyyk)">
       <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/last-fm.svg" alt="last.fm" height="30" width="40" />
     </a>
   </div>
