@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Generate Snake GIF and SVG
 
 on:
   schedule: # execute every 12 hours
