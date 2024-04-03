@@ -44,7 +44,7 @@ _Este README está [disponível](https://github.com/lkotlarenko/lkotlarenko/blob
     <a href="https://codepen.io/lkotlarenko">
       <img align="center" src="https://skillicons.dev/icons?i=codepen" alt="codepen" height="30" width="40" />
     </a>
-    <a href="[https://www.last.fm/user/lkotlarenko](https://www.last.fm/user/elllyyk)">
+    <a href="https://www.last.fm/user/elllyyk">
       <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/last-fm.svg" alt="last.fm" height="30" width="40" />
     </a>
   </div>
