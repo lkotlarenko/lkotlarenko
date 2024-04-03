@@ -87,8 +87,8 @@ _This README is [available](https://github.com/lkotlarenko/lkotlarenko/blob/main
 
 <!-- Snake contributions graph https://github.com/Platane/snk -->
 <div align="center">
-  <img src="https://github.com/lkotlarenko/lkotlarenko/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="GitHub Stats Overview"/>
-   <img src="https://github.com/lkotlarenko/lkotlarenko/blob/output/github-snake.svg#gh-light-mode-only" alt="GitHub Stats Overview"/>
+  <img src="https://github.com/lkotlarenko/lkotlarenko/blob/output/docker/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Stats Overview"/>
+   <img src="https://github.com/lkotlarenko/lkotlarenko/blob/output/docker/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Stats Overview"/>
 </div>
 <br>
 
