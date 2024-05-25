@@ -13,7 +13,7 @@ _This README is [available](https://github.com/lkotlarenko/lkotlarenko/blob/main
 
 ## Sobre mim
 
-- 🌱 Atualmente, estou explorando novas áreas de tecnologia e dados, como Inteligência Artificial e desenvolvimento de jogos.
+- 🌱 Atualmente explorando novas áreas de tecnologia e dados, como Inteligência Artificial e desenvolvimento de jogos.
 - 💻 Tenho experiência em Node.js, React, Express.js, Docker, Linux e Python (mas sempre testando novas também 😊).
 - 📚 Gosto de ler livros e manhwa, ouvir música, jogar videogames, assistir filmes ou animes e viajar (quando possível).
 - 💡 Acredito firmemente que a programação tem o poder de resolver problemas e ajudar as pessoas a mudar o mundo para melhor.
@@ -27,7 +27,7 @@ _This README is [available](https://github.com/lkotlarenko/lkotlarenko/blob/main
   - [Projeto C](https://github.com/lkotlarenko/project-c): Uma breve descrição do que esse projeto faz
 -->
   
-*Estou procurando por oportunidades de trabalho onde eu possa contribuir com meus valores. Amo aprender novas tecnologias e criar soluções que tenham um impacto positivo. Valorizo a colaboração, a diversidade e a melhoria contínua. Se você procura alguém que compartilha desses valores e possui as habilidades e experiência que eu tenho, sinta-se à vontade para entrar em contato comigo. 😸*
+*Estou procurando por uma oportunidade onde possa contribuir com meus valores. Amo aprender novas tecnologias e criar soluções que tenham um impacto positivo. Valorizo a colaboração, a diversidade e a melhoria contínua. Se você procura alguém que possua esses ideais e as habilidades e experiência que tenho, sinta-se à vontade para me contatar. 😸*
 
 ## Onde me chamar
   
