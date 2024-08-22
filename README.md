@@ -3,6 +3,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=lkotlarenko&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" />
 
+<head>
+  <meta name="google-site-verification" content="l50Ld6b6I62IgntsSoqWSoLY-4Ywhf37ak-KfF95uTA" />
+</head>
 <header>
   <h1 align="center">Hi there! 👋</h1>
 </header>
