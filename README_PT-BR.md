@@ -9,7 +9,7 @@ _This README is [available](https://github.com/lkotlarenko/lkotlarenko/blob/main
 <section align="left">
   
 ### Dev | BR🇧🇷 | 22 anos | Adoro programar e aprender coisas novas. 🚀
-### No momento, estou totalmente disponível e em busca ativa por uma oportunidades de emprego!
+### No momento, estou totalmente disponível e em busca ativa por uma oportunidade de emprego!
 
 ## Sobre mim
 
