@@ -23,3 +23,7 @@
 <!-- Spotify Now Playing Card https://github.com/novatorem/novatorem -->
 
 [![Spotify](https://spotify-now-playing-lkotlarenko.vercel.app/api/spotify)](https://open.spotify.com/user/lkotlarenko)
+
+<!-- Snake contributions graph https://github.com/Platane/snk -->
+
+![Snake animation](https://github.com/lkotlarenko/lkotlarenko/blob/output/github-contribution-grid-snake.svg)
