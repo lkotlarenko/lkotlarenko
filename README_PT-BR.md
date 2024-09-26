@@ -1,20 +1,20 @@
 <!-- Obrigado a https://github.com/rahuldkjain/github-profile-readme-generator -->
 _This README is [available](https://github.com/lkotlarenko/lkotlarenko/blob/main/README.md) in english._
 
-<img src="https://komarev.com/ghpvc/?username=lkotlarenko&label=Visualizações%20de%20perfil&color=218a45&style=flat" alt="Visualizações de perfil" />
+<img src="https://komarev.com/ghpvc/?username=lkotlarenko&label=Visualizações%20de%20perfil&color=218a45&style=flat" alt="Visualizações do perfil" />
 
 <header>
   <h1 align="center">Eae! 👋🇧🇷</h1>
 </header>
 <section align="left">
   
-### Sou Dev Web BR🇧🇷 de 22 anos que adora programar e aprender coisas novas. 🚀
+### Dev | BR🇧🇷 | 22 anos | Adoro programar e aprender coisas novas. 🚀
 ### No momento, estou totalmente disponível e em busca ativa por uma oportunidades de emprego!
 
 ## Sobre mim
 
-- 🌱 Atualmente, estou explorando novas áreas de tecnologia e dados, como Aprendizado de Máquina, Inteligência Artificial e Business Intelligence.
-- 💻 Tenho experiência em Node.js, React, Express.js e um pouco de Python (mas sempre buscando aprender mais).
+- 🌱 Atualmente, estou explorando novas áreas de tecnologia e dados, como Inteligência Artificial e desenvolvimento de jogos.
+- 💻 Tenho experiência em Node.js, React, Express.js, Docker, Linux e Python (mas sempre testando novas também 😊).
 - 📚 Gosto de ler livros e manhwa, ouvir música, jogar videogames, assistir filmes ou animes e viajar (quando possível).
 - 💡 Acredito firmemente que a programação tem o poder de resolver problemas e ajudar as pessoas a mudar o mundo para melhor.
 
@@ -27,9 +27,9 @@ _This README is [available](https://github.com/lkotlarenko/lkotlarenko/blob/main
   - [Projeto C](https://github.com/lkotlarenko/project-c): Uma breve descrição do que esse projeto faz
 -->
   
-*Estou procurando por oportunidades de trabalho onde eu possa contribuir com meus valores. Sou apaixonado por aprender novas tecnologias e criar soluções que tenham um impacto positivo. Valorizo a colaboração, a diversidade e a melhoria contínua. Se você procura alguém que compartilha desses valores e possui as habilidades e experiência que eu tenho, sinta-se à vontade para entrar em contato comigo. 😸*
+*Estou procurando por oportunidades de trabalho onde eu possa contribuir com meus valores. Amo aprender novas tecnologias e criar soluções que tenham um impacto positivo. Valorizo a colaboração, a diversidade e a melhoria contínua. Se você procura alguém que compartilha desses valores e possui as habilidades e experiência que eu tenho, sinta-se à vontade para entrar em contato comigo. 😸*
 
-## Entre em contato comigo
+## Onde me chamar
   
   - 📫 Entre em contato comigo por meio do meu email pessoal: **lkotlarenko@proton.me**
   
@@ -49,7 +49,7 @@ _This README is [available](https://github.com/lkotlarenko/lkotlarenko/blob/main
     </a>
   </div>
 
-  <h3>Linguagens e Ferramentas que estou aprendendo / tenho interesse:</h3>
+  <h3>Linguagens e Ferramentas que uso / tenho interesse:</h3>
   </br>
   <div align="center">
     <a href="https://skillicons.dev">
