@@ -73,8 +73,8 @@
 <!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
   <a href="https://github.com/lkotlarenko#user-activity-overview">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lkotlarenko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=22272d&locale=en&layout=slim" height="220" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lkotlarenko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=22272d&locale=en" alt="lkotlarenko" height="220" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lkotlarenko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&layout=slim&hide_border=true&langs_count=4" height="220" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lkotlarenko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&hide_border=true&include_all_commits=true" alt="lkotlarenko" height="220" />
   </a>
 </div>
 <br>
