@@ -82,7 +82,7 @@
 <!-- Spotify Now Playing Card https://github.com/novatorem/novatorem -->
 <div align="center">
   <a href="https://open.spotify.com/user/lkotlarenko">
-    <img src="https://spotify-now-playing-lkotlarenko.vercel.app/api/spotify" alt="Spotify now playing lkotlarenko"/>
+    <img src="https://spotify-now-playing-lkotlarenko.vercel.app/api/spotify?background_color=181413&border_color=ffffff)" alt="Spotify now playing lkotlarenko"/>
   </a>
 </div>
 
