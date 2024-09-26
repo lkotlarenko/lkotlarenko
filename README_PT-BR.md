@@ -8,7 +8,7 @@ _This README is [available](https://github.com/lkotlarenko/lkotlarenko/blob/main
 </header>
 <section align="left">
   
-### Eu sou o Léo, um Desenvolvedor Web brasileiro de 21 anos que adora programar e aprender coisas novas. 🚀
+### Sou Dev Web BR🇧🇷 de 22 anos que adora programar e aprender coisas novas. 🚀
 ### No momento, estou totalmente disponível e em busca ativa por uma oportunidades de emprego!
 
 ## Sobre mim
@@ -44,7 +44,7 @@ _This README is [available](https://github.com/lkotlarenko/lkotlarenko/blob/main
     <a href="https://codepen.io/lkotlarenko">
       <img align="center" src="https://skillicons.dev/icons?i=codepen" alt="codepen" height="30" width="40" />
     </a>
-    <a href="https://www.last.fm/user/lkotlarenko">
+    <a href="https://www.last.fm/user/elllyyk">
       <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/last-fm.svg" alt="last.fm" height="30" width="40" />
     </a>
   </div>
