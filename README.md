@@ -1,5 +1,5 @@
 <!-- Thanks to https://github.com/rahuldkjain/github-profile-readme-generator -->
-_Este README está [disponível](https://github.com/lkotlarenko/lkotlarenko/blob/main/README_PT-BR.md) em português._
+🌐 _Leia a versão em português desse arquivo [aqui](https://github.com/lkotlarenko/lkotlarenko/blob/main/README_PT-BR.md)._
 
 <img src="https://komarev.com/ghpvc/?username=lkotlarenko&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" />
 
@@ -8,14 +8,14 @@ _Este README está [disponível](https://github.com/lkotlarenko/lkotlarenko/blob
 </header>
 <section align="left">
   
-### I'm a 22 years old Web Developer from Brazil who loves to code and learn new things. 🚀
-### I am currently available and actively searching for job opportunities!
+### I'm a 22 years old Dev from Brazil who loves to code and learn new things. 🚀
+### I am currently available for hiring and actively searching for job opportunities!
 
 ## About me
 
-- 🌱 I'm currently exploring new areas of technology and data, such as Machine Learning, Artificial Intelligence, and Business Intelligence.
-- 💻 I have experience in Node.js, React, Express.js, and a bit of Python (but always looking to learning more).
-- 📚 I enjoy reading books and manhwa, listening to music, playing video games, watching movies or anime, and traveling (when possible).
+- 🌱 Currently I'm exploring new areas of technology and data, such as Artificial Intelligence and gaming development.
+- 💻 I have experience in Node.js, React, Express.js, Docker, Linux and Python (but always experimenting with new stuff).
+- 📚 I enjoy reading books and manhwa, listening to music, playing video games, watching movies or anime.
 - 💡 I strongly believe that coding has the power to solve problems and help people change the world for the better.
 
 ## My work
@@ -27,9 +27,9 @@ _Este README está [disponível](https://github.com/lkotlarenko/lkotlarenko/blob
   - [Project C](https://github.com/lkotlarenko/project-c): A brief description of what this project does
 -->
   
-*I am searching for a job opportunity where I can contribute my values. My passion lies in learning new technologies and developing solutions that have a positive impact. Collaboration, diversity, and continuous improvement are values that I hold dear. If you are seeking an individual who shares these values and possesses the necessary skills and experience, please do not hesitate to contact me. 😸*
+*I am on the lookout for a role where I can infuse my core values into meaningful work. My drive is fueled by an eagerness to embrace cutting-edge technologies and craft impactful solutions. I deeply value collaboration, diversity, and the pursuit of excellence. Should you require a dedicated professional who not only shares these ideals but also brings a wealth of skills and experience to the table, I invite you to connect with me. 😸*
 
-## Contact me
+## How to reach me
   
   - 📫 Contact me by my personal email: **lkotlarenko@proton.me**
   
