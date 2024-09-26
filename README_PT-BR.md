@@ -9,7 +9,7 @@ _This README is [available](https://github.com/lkotlarenko/lkotlarenko/blob/main
 <section align="left">
   
 ### Eu sou o Léo, um Desenvolvedor Web brasileiro de 21 anos que adora programar e aprender coisas novas. 🚀
-### No momento, estou totalmente disponível e em busca ativa de oportunidades empolgantes de emprego!
+### No momento, estou totalmente disponível e em busca ativa por uma oportunidades de emprego!
 
 ## Sobre mim
 
