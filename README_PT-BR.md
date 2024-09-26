@@ -1,5 +1,5 @@
 <!-- Obrigado a https://github.com/rahuldkjain/github-profile-readme-generator -->
-_This README is [available](https://github.com/lkotlarenko/lkotlarenko/blob/main/README.md) in english._
+🌐 _Read this file in english [here](https://github.com/lkotlarenko/lkotlarenko/blob/main/README.md)._
 
 <img src="https://komarev.com/ghpvc/?username=lkotlarenko&label=Visualizações%20de%20perfil&color=218a45&style=flat" alt="Visualizações do perfil" />
 
