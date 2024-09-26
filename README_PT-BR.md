@@ -4,11 +4,11 @@
 <img src="https://komarev.com/ghpvc/?username=lkotlarenko&label=Visualizações%20de%20perfil&color=218a45&style=flat" alt="Visualizações do perfil" />
 
 <header>
-  <h1 align="center">Eae! 👋🇧🇷</h1>
+  <h1 align="center">Eae! 🇧🇷 :3</h1>
 </header>
 <section align="left">
   
-### Dev | BR🇧🇷 | 22 anos | Adoro programar e aprender coisas novas. 🚀
+### Dev | BR🇧🇷 | 23 anos | Adoro programar e aprender coisas novas. 🚀
 ### No momento, estou totalmente disponível e em busca ativa por uma oportunidade de emprego!
 
 ## Sobre mim
