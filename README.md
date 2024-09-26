@@ -15,13 +15,13 @@
   <h3>Connect with me:</h3>
   <div>
     <a href="https://linkedin.com/in/lkotlarenko">
-      <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/linked-in-alt.svg" alt="lkotlarenko" height="30" width="40" />
+      <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
     </a>
     <a href="https://dev.to/lkotlarenko">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/lkotlarenko" height="30" width="40" />
     </a>
     <a href="https://codepen.io/lkotlarenko">
-      <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/codepen.svg" alt="lkotlarenko" height="30" width="40" />
+      <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" />
     </a>
     <a href="https://www.last.fm/user/lkotlarenko">
       <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/last-fm.svg" alt="last.fm" height="30" width="40" />
@@ -63,7 +63,7 @@
     <a href="https://heroku.com">
       <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
     </a>
-    <a href="https://www.docker.com/">
+    <a href="https://docker.com/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     </a>
     <a>
@@ -73,8 +73,8 @@
 <!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
   <a href="https://github.com/lkotlarenko#user-activity-overview">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lkotlarenko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&layout=slim&hide_border=true&langs_count=4" height="220" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lkotlarenko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&hide_border=true&include_all_commits=true" alt="lkotlarenko" height="220" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lkotlarenko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&layout=slim&hide_border=true&langs_count=4" height="220" alt="lkotlarenko top languages used" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lkotlarenko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&hide_border=true&include_all_commits=true" alt="lkotlarenko contributions overview" height="220" />
   </a>
 </div>
 <br>
@@ -82,14 +82,21 @@
 <!-- Spotify Now Playing Card https://github.com/novatorem/novatorem -->
 <div align="center">
   <a href="https://open.spotify.com/user/lkotlarenko">
-    <img src="https://spotify-now-playing-lkotlarenko.vercel.app/api/spotify" alt="spotify lkotlarenko"/>
+    <img src="https://spotify-now-playing-lkotlarenko.vercel.app/api/spotify" alt="Spotify now playing lkotlarenko"/>
   </a>
 </div>
 
 <!-- Snake contributions graph https://github.com/Platane/snk -->
 <div align="center">
   <a href="https://github.com/lkotlarenko#user-activity-overview">
-    <img src="https://github.com/lkotlarenko/lkotlarenko/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+    <img src="https://github.com/lkotlarenko/lkotlarenko/blob/output/github-contribution-grid-snake.svg" alt="Snake contributions animation"/>
   </a>
   <br>
+</div>
+  
+<!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lkotlarenko&theme=onestar&no-frame=true&no-bg=true" alt="lkotlarenko Profile Trophies" />
+  </a>
 </div>
