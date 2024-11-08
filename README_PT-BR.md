@@ -35,17 +35,11 @@
   
   <h3>Plataformas em que estou:</h3>
   <div>
-    <a href="https://linkedin.com/in/lkotlarenko">
-      <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" />
-    </a>
     <a href="https://dev.to/lkotlarenko">
       <img align="center" src="https://skillicons.dev/icons?i=devto" alt="https://dev.to/lkotlarenko" height="30" width="40" />
     </a>
     <a href="https://codepen.io/lkotlarenko">
       <img align="center" src="https://skillicons.dev/icons?i=codepen" alt="codepen" height="30" width="40" />
-    </a>
-    <a href="https://www.last.fm/user/elllyyk">
-      <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/last-fm.svg" alt="last.fm" height="30" width="40" />
     </a>
   </div>
 
