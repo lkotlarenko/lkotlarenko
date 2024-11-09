@@ -75,10 +75,10 @@
 </div>
 </br>
 
-<!-- Spotify Now Playing Card https://github.com/novatorem/novatorem -->
+<!-- Spotify Now Playing Card https://github.com/kittinan/spotify-github-profile -->
 <div align="center">
   <a href="https://open.spotify.com/user/lkotlarenko">
-    <img src="https://spotify-now-playing-lkotlarenko.vercel.app/api/spotify?background_color=181413&border_color=ffffff)" alt="Spotify now playing lkotlarenko"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lkotlarenko&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=f594d1&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=lkotlarenko&redirect=true)" alt="Spotify now playing lkotlarenko"/>
   </a>
 </div>
 
